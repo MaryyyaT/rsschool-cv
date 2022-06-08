@@ -216,7 +216,9 @@ li{
 .mail{
     font-size: 18px;
 }
-
+.ul-skills{
+    display: flex;
+}
 
 
 =======
