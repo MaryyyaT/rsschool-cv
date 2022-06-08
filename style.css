@@ -224,6 +224,7 @@ li{
 }
 .ul-skills{
     display: flex;
+<<<<<<< HEAD
     margin-right: 39px;
 }
 
@@ -245,3 +246,8 @@ li{
 .pink{
     color: rgb(167, 82, 134);
 }
+=======
+}
+
+
+>>>>>>> 875abc73613797bebb055c002b0d59f1335bd899
