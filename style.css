@@ -10,7 +10,7 @@
 }
 body{
     margin: auto;
-    background: linear-gradient(-45deg, #00ccff,  #ff81b1, #ff009d, #6ed1f8, #234cd5);
+    background: linear-gradient(-45deg, #00ccff,  #ff81b1, #ff009d, #53a0be, #234cd5);
 	background-size: 400% 400%;
 	animation: gradient 215s ease infinite;
 	height: 100vh;
@@ -82,6 +82,7 @@ li{
 .main__main{
     margin-top: 20px;
     display: flex;
+    flex-wrap: wrap;
 }
 .section{
     background-color: #ffffff48;
@@ -100,8 +101,14 @@ li{
     color: #ffffff;
     background-color: #ffffff25;
 }
+.title-main1{
+    font-size: 28px;
+    color: #ffffff;
+    background-color: #ffffff25;
+    width: 790px;
+}
 .text-main{
-    font-size: 18px;
+    font-size: 17px;
     color: #ffffff;
 }
 .icon{
@@ -110,6 +117,7 @@ li{
 }
 .ul-link{
     text-decoration: none;
+    box-shadow: #8efff0 2px 5px 10px;
 }
 .li-item{
     padding-top: 5px;
@@ -131,18 +139,82 @@ li{
     color: #c7efff;
     background-color: #00ffff31;
 }
-.skills-img{
+.img{
     width: 80px;
     height: 80px;
     transition: 1s;
     box-shadow: #c7efff 2px 5px 20px;
 }
-.skills-img:hover{
+.img:hover{
     box-shadow: #00ffff 2px 5px 10px;
 }
-.skills-section{
-    margin-left: 350px;
+.section1{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
-.skills{
-    box-shadow: #c7efff 5px 5px 50px;
+.flag{
+    width: 70px;
+    height: 50px;
 }
+
+.language-list{
+    margin-top: 20px;
+    margin-right: 150px;
+}
+.language-item{
+    display: flex;
+    color: #ffffff;
+    font-size: large;
+}
+
+.education-img{
+    width: 100px;
+    height: 40px;
+}
+.text-ed{
+    font-size: 30px;
+    color: #ffffff;
+    background-color: #c7efff54;
+}
+.text-education{
+    color: #ffffff;
+}
+.education-list{
+    margin-right: 50px;
+}
+.pro-img{
+    width: 250px;
+    height: 150px;
+    margin-left: 20px;
+    box-shadow: #ffffff 2px 5px 20px;
+}
+.pro-img:hover{
+    box-shadow: #00eeff1c 2px 5px 20px;
+}
+.projects-list{
+    display: flex;
+    margin-right: 59px;
+}
+.footer{
+    margin-top: 720px;
+    width: 1020px;
+    box-shadow: #ffffff 5px 2px 12px;
+}
+
+.footer-img{
+    width: 200px;
+    height: 110px;
+    margin-left: 100px;
+}
+.footer-img:hover{
+    box-shadow: #ffffff 5px 1px 65px;
+}
+.footer-text{
+    text-align: center;
+}
+.mail{
+    font-size: 18px;
+}
+
+
+
