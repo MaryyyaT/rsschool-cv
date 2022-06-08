@@ -108,6 +108,12 @@ li{
     background-color: #ffffff25;
     width: 790px;
 }
+.title-main3{
+    font-size: 28px;
+    color: #ffffff;
+    background-color: #ffffff25;
+    width: 720px;
+}
 .text-main{
     font-size: 17px;
     color: #ffffff;
@@ -218,4 +224,24 @@ li{
 }
 .ul-skills{
     display: flex;
+    margin-right: 39px;
+}
+
+.blue{
+    color: blue;
+}
+.yellow{
+    color: yellow;
+}
+.golden{
+    color: rgb(255, 233, 176);
+}
+.aqua{
+    color: #238ea8;
+}
+.white{
+    color: white;
+}
+.pink{
+    color: rgb(167, 82, 134);
 }
