@@ -31,7 +31,7 @@ Exerience …….Loading …. Soon….
 
 Youtube
 Google
-Playmarket app (About html,Css,Js)
+Playmarket app (About html,Css,JavaScript)
 ♥LANGUAGES♥ ===
 
 GEORGIAN (QARTULI) — NATIVE
